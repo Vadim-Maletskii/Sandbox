@@ -1,3 +1,3 @@
 library(rio)
 library(tidyverse)
-gplot(mpd$hwy)
+plot(mpg$hwy)
